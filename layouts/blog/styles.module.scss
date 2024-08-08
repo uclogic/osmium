@@ -74,7 +74,7 @@
       ' .   title   .   ' auto
       ' .   info    .   ' auto
       ' .   content toc ' auto
-      / 1fr 42rem   1fr;
+      / 1fr 50rem   1fr;
 
     &.fullwidth {
       --content-area-width: minmax(0, calc(var(--content-width) - 80px * 2));
